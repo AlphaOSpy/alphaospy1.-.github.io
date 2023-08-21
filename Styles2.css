@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+.nav__logo {
+  font-weight: 700;
+  color: var(--first-color);
+  text-decoration: none;
+}
+.help {
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.l-header {
+  background-color: #ffff;
+  padding: 1rem;
+  color: #fff;
+}
+
+.error {
+  font-size: 0.875rem;
+  color: #777;
+  margin-bottom: 1rem;
+}
